@@ -11,3 +11,7 @@
  - Chaves SHH e Tokens
  - Iniciando um repositório
  - Como resolver conflitos
+
+
+Link usado para auxiliar na edição de texto Markdown
+[Acesse aqui](https://www.markdownguide.org/basic-syntax/)
